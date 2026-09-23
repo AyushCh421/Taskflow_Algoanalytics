@@ -11,7 +11,7 @@ full task CRUD, search/filter/sort, and a responsive UI.
 
 | | |
 |---|---|
-| Frontend (Vercel) | `<` |
+| Frontend (Vercel) | `https://taskflow-algoanalytics.vercel.app` |
 | Backend (Render) | `https://taskflow-algoanalytics.onrender.com` |
 | Test login | `testuser@example.com` / `Test@1234` |
 | Admin login | `admin@example.com` / `Admin@1234` |
